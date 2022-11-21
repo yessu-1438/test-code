@@ -1,0 +1,17 @@
+To save the images we need to follow the steps:
+
+Image result for how to save images and text in web page and what are the components used for that
+Simply open your image and click on the “File » Save for Web” option. This will open a new dialog box. On the right, you can set different image formats. 
+For JPEG format, you will see different quality options.
+
+To crawl a website , follow the steps:
+
+Running frequent and targeted crawls of your website is a key part of improving its technical health and improving rankings in organic search.
+In this guide, you’ll learn how to crawl a website efficiently and effectively with Lumar.
+The six steps to crawling a website include:
+1. Understanding the domain structure
+2. Configuring the URL sources
+3. Running a test crawl
+4. Adding crawl restrictions
+5. Testing your changes
+6. Running your crawl
